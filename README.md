@@ -66,11 +66,15 @@ flowchart LR
 
 ## 🔍 Key findings
 
-> Write only what you see in YOUR charts.
-
-- 🌱 **[Renewable share changed from X% in 2021 to Y% in 2025]**
-- ☀️ **[Solar peaks around midday, wind is more evenly spread through the day]**
-- ⚛️ **[Nuclear generation dropped to zero after April 2023]**
+- 🌱 **Renewables supplied 64.8% of German generation in September 2026**, and the monthly share shows a clear upward trend from 2021 to 2026, with peaks in summer.
+- ⚡ **Renewable generation in 2025 totaled 257.7k GWh.**
+- 🌬️ **Onshore wind is the largest single source (2021-2025)**, followed by lignite (braunkohle) and solar (photovoltaik).
+- ☀️ **Solar peaks around midday** (about 11:00 to 14:00) and is near zero at night, while onshore wind output stays steady through the day.
+- ⚛️ **Nuclear generation ended after the 2023 phase-out.**
+- 🏭 **Coal generation declined from 2021 to 2025** for both lignite and hard coal.
+- 📉 **Total yearly generation fell from 2021 to 2025**, as shown in the yearly mix chart.
+- 🔄 **Windy days tend to have lower solar output.** This is likely a seasonal effect (windy winter days have little sun), not a direct cause.
+- 🏆 **The top 20 days by renewable share all reach about 90% or more**, mostly in recent years.
 
 ---
 
@@ -140,7 +144,7 @@ databricks-energy-pipeline/
 
 ## 🙋 About me
 
-**[Your name]** | [LinkedIn link] | [Email]
+** [diveshjadhav1193@gmail.com]
 
 ---
 
